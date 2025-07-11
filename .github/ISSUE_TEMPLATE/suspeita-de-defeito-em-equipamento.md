@@ -10,7 +10,7 @@ assignees: ''
 ## Informações
 - [Nome do equipamento]
 - [Localização do equipamento no labboratório]
-- [Resumo do omportamento observado]
+- [Resumo do comportamento observado]
 - [Data da observação]
 - [Usuário que encontrou o problema]
 
