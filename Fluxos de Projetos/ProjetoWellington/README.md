@@ -1,4 +1,4 @@
-# Projeto Nano
+# Projeto Wellington
 Breve descrição do projeto.
 
 ## Seções do projeto:
