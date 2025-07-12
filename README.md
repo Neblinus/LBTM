@@ -20,5 +20,7 @@ Repositório para planejamento e gerenciamento do LBTM-UFOP
 - [x] Template de projetos
 - [ ] Templates de tickets (<ins>em progresso</ins>)
 - [ ] Documentação de uso (<ins>em progresso</ins>)
+- [ ] Setup do projeto geral (<ins>em progresso</ins>)
 - [ ] Documentação essencial do Mermaid
+- [ ] Configuração de notificação de eventos push
 - [ ] Página inicial estilizada
