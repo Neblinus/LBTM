@@ -52,3 +52,17 @@ Com o aparelho ligado:
 ### Detalhes
 * Para medições com **comprimento de caminho** _'longo'_ ou _'automático'_, pipete de **3-5 μL** de amostra;
 * Para medições com **comprimento de caminho** _'curto'_, pipete ao menos de **1-3 μL** de amostra.
+
+<a name="criar_medicoes_diretas"></a>
+## Para criar uma nova função de medição direta:
+Com o aparelho ligado na 'tela inicial' (**Home**):
+* Acesse 'método' (**Method**);
+* Selecione 'comprimento de onda fixo' (**Fixed wavelength**);
+* Selecione 'novo' (**New**) para criar um novo método **baseado em um _template_** (modelo pré-definido);
+* Na tela de 'configuração' (**Configuration**) que se abrirá, é possível definir todas os parâmetros e configurações pertinentes
+  ao método, conforme descrito na tabela abaixo:
+
+| Parâmetros                    | Análogo em inglês           | Descrição                                                                                                                                                                         | Valores       |
+| ----------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------       |
+| Determinação múltipla         | Multiple determination      | Determina se apenas uma ou mais amostras poderão ser medidas com esse método                                                                                                      | Ativo/Inativo |
+| Modo de determinação múltipla | Multiple determination mode | Define se o número de amostras durante uma medição é fixo ou novas amostras podem ser adicionadas durante a medição.<br>**Só funciona se A determinação múltipla estiver ativa.** | 
